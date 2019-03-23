@@ -1,0 +1,108 @@
+
+
+body {
+    background-image: url("../images/ignasi_pattern_s.png");
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo-icon {
+    float: left;
+    width: 70px;
+    background: slategrey;
+    padding: 0%;
+    margin: 0%;
+}
+
+.navbar {
+    padding: 0 5% 0 5%;
+    background: white;
+    box-shadow: 2px 2px 5px slategray;
+    height: 70px;
+}
+
+.navbar-brand {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+
+.hero {
+   width: 12rem;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+    letter-spacing: .2em;
+    margin-bottom: 0px;
+    color: slategray;
+}
+
+hr {    max-width: 100%;
+}
+
+h4 {
+    font-size: 18px;
+    letter-spacing: .2em;
+    padding-left: 2%;
+    text-transform: uppercase;
+}
+
+p {text-align: initial;
+}
+
+header {
+    margin-bottom: 20px;
+    height:80px;
+}
+
+footer {
+    font-size: 10px;
+    background-color: slategray;
+    width: 100%;
+    color: white;
+    border-top: 7px solid rgb(139, 178, 216);
+}
+
+nav {
+    background-color: white;
+}
+
+h4 { 
+    color: slategray;
+    padding-left: 10px;
+    float: left;
+}
+
+h5 {
+    color: white;
+    padding: 2%;
+    font-weight: bold;
+}
+
+.caption {
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    background-color: slategrey;
+    
+}
+
+.nav-item {
+    text-align: right;
+}
+
+.thumbnail {
+    position: relative;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.btn {
+    background-color: slategrey;
+    border: none;
+    width: 150px;
+    height: 55px;
+    font-weight: bold;
+    letter-spacing: .1rem;
+}
