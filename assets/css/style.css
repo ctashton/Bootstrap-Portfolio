@@ -4,7 +4,9 @@ body {
     background-image: url("../images/ignasi_pattern_s.png");
     font-family: 'Montserrat', sans-serif;
 }
-
+img {
+    width: 300px;
+}
 .logo-icon {
     float: left;
     width: 70px;
